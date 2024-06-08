@@ -23,6 +23,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
+/* display: inline-block is used to display items horizontally and does not add a line break next to the <nav> beside it*/
 
 .header h1 .seo {
     color: #d9dcd6;
@@ -37,6 +38,8 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+/* these are the properties of the navigation links on the webpage*/
+
 
 .header nav ul {
     list-style-type: none;
